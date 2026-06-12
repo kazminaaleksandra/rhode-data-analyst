@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# rhode data analyst
+data/*.csv
+data/*.html
+local_data/
+node_modules/
+package-lock.json
